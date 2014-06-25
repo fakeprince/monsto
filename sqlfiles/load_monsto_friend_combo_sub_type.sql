@@ -1,0 +1,11 @@
+﻿INSERT INTO monsto_friend_combo_sub_type(created_at, friend_combo_type, name, display_string) VALUES(NULL, 'Explosion', 'Explosion', '爆発');
+INSERT INTO monsto_friend_combo_sub_type(created_at, friend_combo_type, name, display_string) VALUES(NULL, 'Explosion', 'WhiteExplosion', '白爆発');
+INSERT INTO monsto_friend_combo_sub_type(created_at, friend_combo_type, name, display_string) VALUES(NULL, 'Laser', 'CrossLaser', 'クロスレーザー');
+INSERT INTO monsto_friend_combo_sub_type(created_at, friend_combo_type, name, display_string) VALUES(NULL, 'Laser', 'VerticalLaser', 'バーティカルレーザー');
+INSERT INTO monsto_friend_combo_sub_type(created_at, friend_combo_type, name, display_string) VALUES(NULL, 'Laser', 'VLaser', 'Vレーザー');
+INSERT INTO monsto_friend_combo_sub_type(created_at, friend_combo_type, name, display_string) VALUES(NULL, 'Laser', 'OneWayLaser', 'ワンウェイレーザー');
+INSERT INTO monsto_friend_combo_sub_type(created_at, friend_combo_type, name, display_string) VALUES(NULL, 'Homing', 'Homing', 'ホーミング');
+INSERT INTO monsto_friend_combo_sub_type(created_at, friend_combo_type, name, display_string) VALUES(NULL, 'Homing', 'IgnoreHoming', '貫通ホーミング');
+INSERT INTO monsto_friend_combo_sub_type(created_at, friend_combo_type, name, display_string) VALUES(NULL, 'Homing', 'SuperStrongHoming', '超強ホーミング');
+INSERT INTO monsto_friend_combo_sub_type(created_at, friend_combo_type, name, display_string) VALUES(NULL, 'DiffusionBullet', 'DiffusionBullet', '拡散弾');
+INSERT INTO monsto_friend_combo_sub_type(created_at, friend_combo_type, name, display_string) VALUES(NULL, 'ShockWave', 'LockOnShockWave', 'ロックオン衝撃波');
